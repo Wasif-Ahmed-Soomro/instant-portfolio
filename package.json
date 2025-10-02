@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-rnd": "^10.5.2",
+    "uuid": "^13.0.0"
+  }
+}
